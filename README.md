@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&width=435&lines=Web+Developer;Mobile+Apps+with+Expo;I+build+things+that+ship)](https://git.io/typing-svg)
 
-Web developer yang suka bangun project sampai jadi: web apps, mobile apps, dan automation.
+Full-stack developer. Web, mobile, automation.
 
 ## 🛠 Tech Stack
 
@@ -28,3 +28,4 @@ Web developer yang suka bangun project sampai jadi: web apps, mobile apps, dan a
 - [jadwal-sholat-app](https://github.com/ryuzetsu2212/jadwal-sholat-app) - Aplikasi jadwal sholat (Expo / React Native)
 - [modelfaceoff](https://github.com/ryuzetsu2212/modelfaceoff) - Benchmark perbandingan model AI
 - [aegis-chat](https://github.com/ryuzetsu2212/aegis-chat) - Chat E2EE dengan Node.js + Supabase
+
