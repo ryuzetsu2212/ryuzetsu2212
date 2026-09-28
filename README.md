@@ -23,9 +23,16 @@ Full-stack developer. Web, mobile, automation.
 ![Streak](https://streak-stats.demolab.com?user=ryuzetsu2212&theme=tokyonight)
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryuzetsu2212&theme=tokyonight)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryuzetsu2212/ryuzetsu2212/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryuzetsu2212/ryuzetsu2212/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ryuzetsu2212/ryuzetsu2212/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 🚀 Projects
 
 - [jadwal-sholat-app](https://github.com/ryuzetsu2212/jadwal-sholat-app) - Aplikasi jadwal sholat (Expo / React Native)
 - [modelfaceoff](https://github.com/ryuzetsu2212/modelfaceoff) - Benchmark perbandingan model AI
 - [aegis-chat](https://github.com/ryuzetsu2212/aegis-chat) - Chat E2EE dengan Node.js + Supabase
+
 
