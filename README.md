@@ -19,9 +19,9 @@ Web developer yang suka bangun project sampai jadi: web apps, mobile apps, dan a
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ryuzetsu2212&show_icons=true&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryuzetsu2212&theme=tokyonight)
 ![Streak](https://streak-stats.demolab.com?user=ryuzetsu2212&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryuzetsu2212&layout=compact&theme=tokyonight)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryuzetsu2212&theme=tokyonight)
 
 ## 🚀 Projects
 
