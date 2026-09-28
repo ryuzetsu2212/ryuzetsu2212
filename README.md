@@ -1,6 +1,6 @@
 # Hi, I'm ryuzetsu 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&width=435&lines=Full-Stack+Developer;Web+%26+Mobile+Apps;I+build+things+that+ship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22C55E&width=435&lines=Full-Stack+Developer;Web+%26+Mobile+Apps;Make+it+work%2C+make+it+live)](https://git.io/typing-svg)
 
 Full-stack developer. Web, mobile, automation.
 
@@ -34,6 +34,7 @@ Full-stack developer. Web, mobile, automation.
 - [jadwal-sholat-app](https://github.com/ryuzetsu2212/jadwal-sholat-app) - Aplikasi jadwal sholat (Expo / React Native)
 - [modelfaceoff](https://github.com/ryuzetsu2212/modelfaceoff) - Benchmark perbandingan model AI
 - [aegis-chat](https://github.com/ryuzetsu2212/aegis-chat) - Chat E2EE dengan Node.js + Supabase
+
 
 
 
