@@ -36,6 +36,11 @@ Full-stack developer. Web, mobile, automation.
 
 ![3D Contrib](https://raw.githubusercontent.com/ryuzetsu2212/ryuzetsu2212/main/profile-3d-contrib/profile-green-animate.svg)
 
+
+## 🎵 Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31au634cmnc64meo33s6dxtpcxxu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+
 ## 🚀 Projects
 
 - [jadwal-sholat-app](https://github.com/ryuzetsu2212/jadwal-sholat-app) - Aplikasi jadwal sholat (Expo / React Native)
@@ -47,3 +52,4 @@ Full-stack developer. Web, mobile, automation.
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
